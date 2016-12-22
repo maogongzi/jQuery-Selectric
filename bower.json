@@ -30,7 +30,5 @@
     "gulpfile.js",
     "package.json"
   ],
-  "dependencies": {
-    "jquery": ">= 1.7.0"
-  }
+  "dependencies": {}
 }
